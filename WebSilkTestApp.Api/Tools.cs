@@ -13,6 +13,8 @@ namespace WebSilkTestApp.Api
         private static string _subtext;
 
         string clientid = "825413375745-hf1ieldjpcd7o91dno735n2ojtni1hah";
+        string password = "825413375745-hf1ieldjpcd7o91dno735n2ojtni1hah";
+        string secrect = "825413375745-hf1ieldjpcd7o91dno735n2ojtni1hah";
 
         public static List<int> FindPosition(string text, string subtext, bool caseInsensitive = true)
         {
