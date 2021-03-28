@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace WebSilkTestApp.UI.Controllers
+namespace SampleApi.UI.Controllers
 {
     public class HomeController : Controller
     {

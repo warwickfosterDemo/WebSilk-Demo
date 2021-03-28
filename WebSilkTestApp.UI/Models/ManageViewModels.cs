@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace WebSilkTestApp.UI.Models
+namespace SampleApi.UI.Models
 {
     public class IndexViewModel
     {

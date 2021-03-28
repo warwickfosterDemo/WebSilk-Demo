@@ -13,8 +13,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WebSilkTestApp.UI</RootNamespace>
-    <AssemblyName>WebSilkTestApp.UI</AssemblyName>
+    <RootNamespace>SampleApi.UI</RootNamespace>
+    <AssemblyName>SampleApi.UI</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
@@ -25,7 +25,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <ApplicationInsightsResourceId>/subscriptions/a40221ed-c522-47da-892b-cc524a3e482f/resourcegroups/Default-ApplicationInsights-CentralUS/providers/microsoft.insights/components/WebSilkTestApp.UI</ApplicationInsightsResourceId>
+    <ApplicationInsightsResourceId>/subscriptions/a40221ed-c522-47da-892b-cc524a3e482f/resourcegroups/Default-ApplicationInsights-CentralUS/providers/microsoft.insights/components/SampleApi.UI</ApplicationInsightsResourceId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

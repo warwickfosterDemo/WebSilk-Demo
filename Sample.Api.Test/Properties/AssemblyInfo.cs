@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WebSilkTestApp.Api")]
+[assembly: AssemblyTitle("SampleApi.Api.Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Toshiba")]
-[assembly: AssemblyProduct("WebSilkTestApp.Api")]
+[assembly: AssemblyProduct("SampleApi.Api.Test")]
 [assembly: AssemblyCopyright("Copyright © Toshiba 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6d9a1d9b-66a3-43a0-b355-da6fc6492cf4")]
+[assembly: Guid("d955b63d-cc6a-4eea-8d53-6e3cd1cf8a7d")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace WebSilkTestApp.UI.Models
+namespace SampleApi.UI.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

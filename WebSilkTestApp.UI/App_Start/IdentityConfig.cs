@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using WebSilkTestApp.UI.Models;
+using SampleApi.UI.Models;
 
-namespace WebSilkTestApp.UI
+namespace SampleApi.UI
 {
     public class EmailService : IIdentityMessageService
     {

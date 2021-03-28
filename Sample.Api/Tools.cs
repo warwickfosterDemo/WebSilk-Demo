@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace WebSilkTestApp.Api
+namespace SampleApi.Api
 {
     public static class Tools
     {
@@ -12,9 +12,9 @@ namespace WebSilkTestApp.Api
         private static string _text;
         private static string _subtext;
 
-        string clientid = "825413375745-hf1ieldjpcd7o91dno735n2ojtni1hah";
-        string password = "825413375745-hf1ieldjpcd7o91dno735n2ojtni1hah";
-        string secrect = "825413375745-hf1ieldjpcd7o91dno735n2ojtni1hah";
+        static string clientid = "825413375745-hf1ieldjpcd7o91dno735n2ojtni1hah";
+        static string password = "825413375745-hf1ieldjpcd7o91dno735n2ojtni1hah";
+        static string secrect = "825413375745-hf1ieldjpcd7o91dno735n2ojtni1hah";
 
         public static List<int> FindPosition(string text, string subtext, bool caseInsensitive = true)
         {

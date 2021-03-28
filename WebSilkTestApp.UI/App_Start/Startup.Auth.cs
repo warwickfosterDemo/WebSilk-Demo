@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using WebSilkTestApp.UI.Models;
+using SampleApi.UI.Models;
 
-namespace WebSilkTestApp.UI
+namespace SampleApi.UI
 {
     public partial class Startup
     {

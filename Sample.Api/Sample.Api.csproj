@@ -7,8 +7,8 @@
     <ProjectGuid>{6D9A1D9B-66A3-43A0-B355-DA6FC6492CF4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WebSilkTestApp.Api</RootNamespace>
-    <AssemblyName>WebSilkTestApp.Api</AssemblyName>
+    <RootNamespace>SampleApi.Api</RootNamespace>
+    <AssemblyName>SampleApi.Api</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

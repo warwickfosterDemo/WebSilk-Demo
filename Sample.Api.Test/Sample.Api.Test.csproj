@@ -6,8 +6,8 @@
     <ProjectGuid>{D955B63D-CC6A-4EEA-8D53-6E3CD1CF8A7D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WebSilkTestApp.Api.Test</RootNamespace>
-    <AssemblyName>WebSilkTestApp.Api.Test</AssemblyName>
+    <RootNamespace>SampleApi.Api.Test</RootNamespace>
+    <AssemblyName>SampleApi.Api.Test</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -59,13 +59,13 @@
   </Choose>
   <ItemGroup>
     <Compile Include="DebuggerShim.cs" />
-    <Compile Include="TDD_WebSilkTestApp_Api.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TDD_SampleApi_Api.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WebSilkTestApp.Api\WebSilkTestApp.Api.csproj">
+    <ProjectReference Include="..\Sample.Api\Sample.Api.csproj">
       <Project>{6d9a1d9b-66a3-43a0-b355-da6fc6492cf4}</Project>
-      <Name>WebSilkTestApp.Api</Name>
+      <Name>SampleApi.Api</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

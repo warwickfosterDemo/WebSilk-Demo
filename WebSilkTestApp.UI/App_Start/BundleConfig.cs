@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace WebSilkTestApp.UI
+namespace SampleApi.UI
 {
     public class BundleConfig
     {

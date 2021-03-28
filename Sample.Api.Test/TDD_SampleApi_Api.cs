@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Should;
 
-namespace WebSilkTestApp.Api.Test
+namespace SampleApi.Api.Test
 {
     [TestClass]
-    public class TDD_WebSilkTestApp_Api
+    public class TDD_SampleApi_Api
     {
         private string text = "Polly put the kettle on, polly put the kettle on, polly put the kettle on we'll all have tea";
 

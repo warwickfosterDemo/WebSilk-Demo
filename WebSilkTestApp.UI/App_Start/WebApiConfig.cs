@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace WebSilkTestApp.UI
+namespace SampleApi.UI
 {
     public static class WebApiConfig
     {

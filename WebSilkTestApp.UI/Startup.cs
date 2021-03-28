@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(WebSilkTestApp.UI.Startup))]
-namespace WebSilkTestApp.UI
+[assembly: OwinStartupAttribute(typeof(SampleApi.UI.Startup))]
+namespace SampleApi.UI
 {
     public partial class Startup
     {

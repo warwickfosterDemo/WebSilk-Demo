@@ -6,9 +6,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using WebSilkTestApp.UI.Models;
+using SampleApi.UI.Models;
 
-namespace WebSilkTestApp.UI.Controllers
+namespace SampleApi.UI.Controllers
 {
     [Authorize]
     public class ManageController : Controller

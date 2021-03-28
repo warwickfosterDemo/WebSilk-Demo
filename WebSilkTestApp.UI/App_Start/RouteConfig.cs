@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace WebSilkTestApp.UI
+namespace SampleApi.UI
 {
     public class RouteConfig
     {
